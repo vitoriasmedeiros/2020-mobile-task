@@ -1,6 +1,6 @@
 # App Mobile Exemplo
 
-- **aluno**: 
+- **aluno**: Leonardo Ataide Minora
 
 ## Infomações gerais da disciplina
 
@@ -13,4 +13,4 @@
 - Respositório para a aplicação mobile desenvolvida em sala de aula
 
 ## Tarefas
-- [ ] O aluno deverá modificar o autor do repositório com seu nome
+- [X] O aluno deverá modificar o autor do repositório com seu nome

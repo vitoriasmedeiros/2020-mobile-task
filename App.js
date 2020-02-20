@@ -4,7 +4,6 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Reac Web App!</Text>
       <Text>Meu primeiro app mobile!</Text>
     </View>
   );
